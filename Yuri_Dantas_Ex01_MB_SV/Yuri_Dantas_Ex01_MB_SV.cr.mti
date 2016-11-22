@@ -1,0 +1,15 @@
+C:/intelFPGA/16.1/Contador1_ex1.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/16.1/Contador1_ex1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Cont1_ex1
+
+Top level modules:
+	Cont1_ex1
+
+} {} {}} C:/intelFPGA/16.1/Contador2_ex1.sv {1 {vlog -work work -sv -stats=none C:/intelFPGA/16.1/Contador2_ex1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Cont2_ex1
+
+Top level modules:
+	Cont2_ex1
+
+} {} {}}
